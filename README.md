@@ -40,11 +40,14 @@ I am a software engineer at Synopsys Inc. I have degrees in Physics and Computer
 - [Better C Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-c-syntax): Better syntax highlighting for C, which is also useful for semantic highlighting.
 - [Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax): Better syntax highlighting for C++, which is also useful for semantic highlighting.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Highlights some comments differently if they are TODO, FIXME, etc.
+- [Better Objective-C Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-objc-syntax): Better syntax highlighting for Objective-C, which is also useful for semantic highlighting.
+- [Better Objective-C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-objcpp-syntax): Better syntax highlighting for Objective-C++, which is also useful for semantic highlighting.
 - [Better Readability Extension Pack](https://marketplace.visualstudio.com/items?itemName=pinage404.better-readability-extension-pack): Highlights white-space and special characters to make them obvious.
+- [Better Shell Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax): Fixes a few highlighting issues on Shell syntax highlighting.
 - [Bracketeer](https://marketplace.visualstudio.com/items?itemName=pustelto.bracketeer): You can add hotkeys for bracket operations, such as removing the closest matched pair of brackets.
 - [changelog-support](https://marketplace.visualstudio.com/items?itemName=kondoumh.changelog-support): Highlight changelog files.
 - [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd): Use clangd to check your code and provide semantic highlighting. You should disable the built-in "C/C++" intellisense entension and set up a `compile_commands.json` file and profit.
-- [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake): Language support for authoring `CMakeFiles.txt`.
+- [CMake Language Support](https://marketplace.visualstudio.com/items?itemName=josetr.cmake-language-support-vscode): Language support for authoring `CMakeFiles.txt`.
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools): Allow configuring and building with CMake from within VSCode.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): Check spelling on your code. Supports CamelCase and snake_snake. You need to install dictionaries separately.
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): For sharing screenshots of code.
